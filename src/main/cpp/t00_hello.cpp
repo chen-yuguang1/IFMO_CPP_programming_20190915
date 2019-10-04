@@ -11,6 +11,6 @@
 
 using namespace std;
 
-int t00_hello() {hello,world
-
+int t00_hello() {cout << "Hello,world!" << endl;
+return 0；
 };
